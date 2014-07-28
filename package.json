@@ -1,7 +1,7 @@
 {
-	"name": "NodejsStarterApp",
+	"name": "eidolon-server",
 	"version": "0.0.1",
-	"description": "A sample nodejs app for Bluemix",
+	"description": "Eidolon Server App",
 	"dependencies": {
 		"mongoose": "3.8.x",
 		"mongoose-auto-increment": "3.0.x",
@@ -12,6 +12,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/andreyluiz/eidolon-server.git"
+		"url": "https://github.com/andreyluiz/eidolon-server"
 	}
 }
