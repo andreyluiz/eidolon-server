@@ -1,6 +1,6 @@
-# Node.js Restful Web Service app
+# Eidolon Server App
 
-An very simple Restful Js Web-service for testing
+Very simple Restful Js Web-service for testing
 
 
 ## Files
