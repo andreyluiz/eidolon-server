@@ -7,11 +7,11 @@ Very simple Restful Js Web-service for testing
 
 The application contains:
 
-*   app.js
+*   app.coffee
 
 	Main server engine and initialization
 
-*   mongler.js
+*   mongler.coffee
 
 	Where the mongodb stuff done right
 
